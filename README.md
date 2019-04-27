@@ -1,6 +1,6 @@
 # Service-counter
 
-There is a service counter which has a limited waiting queue outside it. It works as follows:
+There is a service counter which has a limited waiting queue outside it. <br\>It works as follows:
 i)The counter remains open till the waiting queue is not empty
 ii)If the queue is already full, the new customer simply leaves
 iii)If the queue becomes empty, the outlet doors will be closed (service personel sleep)
